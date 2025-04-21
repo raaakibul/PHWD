@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.blog{
+    background-color: rgb(16, 180, 230);
+    border: 3px solid tomato;
+    border-radius: 9px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    padding: 20px;
+
+}
+.author-name{
+    color: red;
+}
+
+/* block, inline, inline-block  */
+.blog-title{
+    text-align: center;
+}

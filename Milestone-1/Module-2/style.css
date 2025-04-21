@@ -1,0 +1,35 @@
+p{
+    color: red;
+    background-color: indigo;
+    height: 70px;
+    width: 75%;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+h1{
+    color: #a775ad;
+}
+#second-header{
+    color: royalblue;
+    background-color: yellow;
+    height: 100px;
+    width: 75%;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border: 3px solid gray;
+    border-radius: 7px;
+}
+.third-header{
+    color: brown;
+    background-color:gold;
+    height: 80px;
+    width: 75%;
+    font-size: 25px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
