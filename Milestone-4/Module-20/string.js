@@ -35,3 +35,11 @@ if(drink.trim()===liquid.trim()){
 else{
     console.log("No match");
 }
+//  String Slice, Join, Concat and includes
+const address = 'Dhaka';
+console.log(address);
+const part = address.slice(3,5);
+console.log(part);
+
+const sentence = 'lorem o ipsum'
+console.log(sentence.split('o'));
