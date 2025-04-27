@@ -43,3 +43,11 @@ console.log(part);
 
 const sentence = 'lorem o ipsum'
 console.log(sentence.split('o'));
+
+let reverse = '';
+
+for(const letter of sentence){
+    // console.log(letter);
+    reverse = letter + reverse;
+}
+console.log(reverse);
