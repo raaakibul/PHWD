@@ -25,3 +25,7 @@ const bottle ={
     isclean:false,
 }
 console.log(bottle);
+console.log(bottle.brand);
+const clean = bottle.isclean;
+console.log(clean);
+console.log(bottle['brand']);
