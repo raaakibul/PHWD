@@ -7,4 +7,5 @@ const mobile ={
 
 for(const prop in mobile){
     console.log(prop);
+    console.log(mobile[prop]);
 }
