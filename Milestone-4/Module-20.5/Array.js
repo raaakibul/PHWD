@@ -5,5 +5,11 @@ for(const friend of friends){
 
 for(let i=0;i<friends.length;i++){
     // console.log(i);
-    console.log(i+1,friends[i]);
+    console.log(i+1 ,"-",friends[i]);
+}
+
+let i=0;
+while(i < friends.length){
+    console.log(i+1,"-",friends[i]);
+    i++;
 }
