@@ -14,3 +14,4 @@ placesContainer.style.backgroundColor = 'yellow';
 
 placesContainer.classList.add('text-center');
 placesContainer.classList.remove('large-text');
+
