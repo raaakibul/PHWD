@@ -8,3 +8,9 @@ h1{
 .important-places{
     color: blueviolet;
 }
+.text-center{
+    text-align: center;
+}
+.large-text{
+    font-size: 2em;
+}
