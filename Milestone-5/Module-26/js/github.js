@@ -4,6 +4,9 @@ document.getElementById('delete-text').addEventListener('keyup', function(){
     if(text==='delete'){
         delButton.removeAttribute('disabled');
     }
+    else{
+        delButton.setAttribute('disabled', true);
+    }
 })
 document.getElementById('btn-delete').addEventListener('click', function(){
     const info = document.getElementById('info');
