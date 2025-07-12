@@ -1,0 +1,40 @@
+{
+    "students":[
+        {
+    "name":"C",
+    "middle_name":"c",
+    "age":31,
+    "roll":356,
+    "isregistered":true,
+    "course":["Bangla","English","Math"],
+    "friends":[
+        {
+            "name": "A",
+            "age":25
+        },
+        {
+            "name":"B",
+            "age":24
+        }
+    ]
+},
+{
+    "name":"D",
+    "middle_name":"d",
+    "age":3,
+    "roll":357,
+    "isregistered":true,
+    "course":["Bangla","English","Math"],
+    "friends":[
+        {
+            "name": "A",
+            "age":25
+        },
+        {
+            "name":"B",
+            "age":24
+        }
+    ]
+}
+    ]
+}
